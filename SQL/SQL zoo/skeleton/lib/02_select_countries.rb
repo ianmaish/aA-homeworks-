@@ -84,6 +84,6 @@ def united_we_stand
     FROM 
       countries
     WHERE
-      name LIKE '%united%';
+      name LIKE '%United%';
   SQL
 end
